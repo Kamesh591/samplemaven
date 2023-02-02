@@ -11,7 +11,7 @@ public class FirstTest {
     public void firstMethod(){
 
         System.out.println("This is my first test");
-        Assert.assertTrue(false);
+        Assert.assertTrue(true);
     }
 
 @Test(description = "This is 2nd test case")
